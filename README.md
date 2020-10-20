@@ -2,23 +2,6 @@
   <img  width="100" height="80%" src="https://i.ibb.co/DV59Nyd/screen03.png" alt="NLW3"></a>
 </p>
 
-
-<h1 align="center">
-
-## Preview
-### Home
-  
-
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/51785898/95791552-01e17280-0cb8-11eb-965b-64b68ecff02c.png" alt="Logo da Happy" width="1000px" />
-</h1>
-
-
-
-### Mapa de orfanatos
-  <img src="./github/orphanages.gif" alt="Mapa Orfanatos" width="50%" heigth="50%" align="center"> 
-</h1>
-
 ## Sobre o projeto
 
 Uma aplicação em vários ambientes, tanto mobile quanto front-end e back-end, com o objetivo de facilitar o encontro entre pessoas e orfanatos.
@@ -49,6 +32,24 @@ $ git clone https://github.com/paulofreitas-py/NLW-3-Discovery
 Site is ready to be published at https://paulofreitas-py.github.io/NLW-3-Discovery/. 
 
 ```
+
+
+<h1 align="center">
+
+## Preview
+### Home
+  
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/51785898/95791552-01e17280-0cb8-11eb-965b-64b68ecff02c.png" alt="Logo da Happy" width="1000px" />
+</h1>
+
+
+
+### Mapa de orfanatos
+  <img src="./github/orphanages.gif" alt="Mapa Orfanatos" width="50%" heigth="50%" align="center"> 
+</h1>
+
 
 ##  Licenças
 
