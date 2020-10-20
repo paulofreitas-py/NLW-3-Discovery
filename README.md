@@ -46,6 +46,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 # Clone este repositório
 $ git clone https://github.com/paulofreitas-py/NLW-3-Discovery
+Site is ready to be published at https://paulofreitas-py.github.io/NLW-3-Discovery/. 
 
 ```
 
