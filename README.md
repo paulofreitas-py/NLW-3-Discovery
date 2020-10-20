@@ -21,7 +21,7 @@
 
 ## Sobre o projeto
 
-Uma aplicação em vários ambientes, tanto mobile quanto web, além é claro do back-end, com o objetivo de facilitar o encontro entre pessoas e orfanatos.
+Uma aplicação em vários ambientes, tanto mobile quanto front-end e back-end, com o objetivo de facilitar o encontro entre pessoas e orfanatos.
 
 O projeto está sendo desenvolvido pelo conteúdo passsado na [Next Level Week](https://nextlevelweek.com/episodios/omnistack/1/edicao/3)
 
